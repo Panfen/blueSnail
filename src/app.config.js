@@ -15,19 +15,19 @@ export default defineAppConfig({
       },
       {
         pagePath: 'pages/report/index',
-        text: '明细',
+        text: '统计',
         iconPath: 'imgs/report.png',
         selectedIconPath: 'imgs/report_.png',
       },
       {
         pagePath: 'pages/explore/index',
-        text: '明细',
+        text: '发现',
         iconPath: 'imgs/explore.png',
         selectedIconPath: 'imgs/explore_.png',
       },
       {
         pagePath: 'pages/home/index',
-        text: '明细',
+        text: '我的',
         iconPath: 'imgs/home.png',
         selectedIconPath: 'imgs/home_.png',
       }
