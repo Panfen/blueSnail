@@ -17,7 +17,7 @@ export default class Index extends Component {
   render () {
     return (
       <View className='index'>
-        <Text>Hello index!</Text>
+        <Text>Hello Home!</Text>
       </View>
     )
   }

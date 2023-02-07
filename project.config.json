@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "dist/",
-  "projectname": "snail-bill",
-  "description": "snail-bill",
+  "projectname": "blueSnail",
+  "description": "step by step",
   "appid": "wx2a84417473bc075d",
   "setting": {
     "urlCheck": true,

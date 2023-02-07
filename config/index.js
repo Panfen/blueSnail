@@ -1,5 +1,5 @@
 const config = {
-  projectName: 'snail-bill',
+  projectName: 'blueSnail',
   date: '2023-2-7',
   designWidth: 750,
   deviceRatio: {

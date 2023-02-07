@@ -1,6 +1,6 @@
 {
   "miniprogramRoot": "./",
-  "projectname": "snail-bill",
+  "projectname": "blueSnail",
   "appid": "testAppId",
   "setting": {
     "es6": false,

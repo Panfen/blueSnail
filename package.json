@@ -1,8 +1,8 @@
 {
-  "name": "snail-bill",
+  "name": "blueSnail",
   "version": "1.0.0",
   "private": true,
-  "description": "snail-bill",
+  "description": "step by step",
   "templateInfo": {
     "name": "default",
     "typescript": false,
